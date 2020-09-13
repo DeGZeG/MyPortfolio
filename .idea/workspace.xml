@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0988a503-2f20-4d88-9228-0787a2a970b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gdzb32U4OxSRPqkeqwbFqw1387" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PhpProjects\SkillBox3-finalProject\images" />
+      <recent name="D:\PhpProjects\SkillBox3-finalProject\css" />
+      <recent name="D:\PhpProjects\SkillBox3-finalProject\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PhpProjects\SkillBox3-finalProject\css" />
+      <recent name="D:\PhpProjects\SkillBox3-finalProject\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0988a503-2f20-4d88-9228-0787a2a970b9" name="Default Changelist" comment="" />
+      <created>1598459324319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598459324319</updated>
+      <workItem from="1598459325562" duration="3895000" />
+      <workItem from="1598524665405" duration="1664000" />
+      <workItem from="1598717899874" duration="12174000" />
+      <workItem from="1598776795671" duration="4463000" />
+      <workItem from="1598794791452" duration="10344000" />
+      <workItem from="1598865163709" duration="21446000" />
+      <workItem from="1598947642141" duration="5145000" />
+      <workItem from="1598963775238" duration="15837000" />
+      <workItem from="1599063877031" duration="30000" />
+      <workItem from="1599127115486" duration="3928000" />
+      <workItem from="1600027162749" duration="370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1599133135273">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1280.0.1280.982@0.0.1920.1040" timestamp="1598538330289" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.26.1920.1038@0.0.1920.1040" timestamp="1599133135273" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598726014212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.26.1920.1038@0.0.1920.1040" timestamp="1598726014212" />
+  </component>
+</project>

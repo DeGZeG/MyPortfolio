@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Последний проект</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <script src="js/jquery-3.5.1.min.js"></script>
+    <script src="js/scripts.js"></script>
+</head>
+<body>
+    <header class="header">
+        <svg class="svg header__svg-egg">
+            <defs>
+                <linearGradient id="gradient-color">
+                    <stop offset="0%" stop-color="#ff8f5a"></stop>
+                    <stop offset="100%" stop-color="#ff2f96"></stop>
+                </linearGradient>
+            </defs>
+            <g class="svg__egg">
+                <path transform="rotate(-108 428.02825927734375,293.7735595703124)" fill="url(#gradient-color)" d="m350.30764,650.98796c-426.18737,5.68466 -349.46839,-450.77934 -234.83098,-657.86671c114.63741,-207.0874 263.54148,-251.27386 453.3533,-1.55438c189.81183,249.71948 207.66505,653.73643 -218.52232,659.42109z"></path>
+            </g>
+        </svg>
+        <svg class="svg header__svg-text" fill="url(#gradient-color)">
+            <text class="svg__symbol1 svg-text">#</text>
+            <text class="svg__symbol2 svg-text">{ }</text>
+            <text class="svg__symbol3 svg-text">&lt;/&gt;</text>
+            <text class="svg__symbol4 svg-text">&lt;div&gt;</text>
+            <text class="svg__symbol5 svg-text">&lt;div&gt;</text>
+        </svg>
+        <img class="header__photo" src="images/sf.png">
+        <div class="top-menu fixed-container">
+            <div class="top-menu__menu-button"></div>
+            <nav class="top-menu__links">
+                <a href="#tasks">Услуги</a>
+                <a href="#examples">Портфолио</a>
+                <a href="#price">Стоимость</a>
+            </nav>
+            <div class="top-menu__others">
+                <span class="others__number">+7 (800) 555-35-35</span>
+                <button class="others__button call-button">Заказать звонок</button>
+            </div>
+            <div class="others__mini-call-button"></div>
+        </div>
+        <div class="about fixed-container">
+            <span class="about__name">Дмитрий Грибовский</span>
+            <span class="about__profession">Frontend-разработчик и веб-верстальщик</span>
+            <button class="about__button filled-button">Узнать больше</button>
+        </div>
+    </header>
+    <main class="main">
+        <div id="tasks" class="tasks">
+            <div class="fixed-container">
+                <span class="tasks__title">Что я делаю</span>
+                <div class="functions">
+                    <div class="functions__item">
+                        <img class="functions__img" src="images/wtfdo1.png">
+                        <span class="functions__text">Вёрстка лендинг–страниц и&nbsp;сайтов любой сложности</span>
+                    </div>
+                    <div class="functions__item">
+                        <img class="functions__img" src="images/wtfdo2.png">
+                        <span class="functions__text">Адаптивная вёрстка под все браузеры и устройства</span>
+                    </div>
+                    <div class="functions__item">
+                        <img class="functions__img" src="images/wtfdo3.png">
+                        <span class="functions__text">Frontend–разработка и&nbsp;программирование</span>
+                    </div>
+                    <div class="functions__item">
+                        <img class="functions__img" src="images/wtfdo4.png">
+                        <span class="functions__text">Исправление и доработка существующей вёрстки</span>
+                    </div>
+                </div>
+                <button class="tasks__button filled-button">Узнать стоимость</button>
+            </div>
+        </div>
+        <div id="examples" class="examples">
+            <div class="fixed-container">
+                <span class="examples__title">Примеры моих работ</span>
+                <div class="sites">
+                    <div class="sites__item">
+                        <img class="sites__img" src="images/site1.png">
+                        <span class="sites__text">Сайт психолога Веры Антоновой</span>
+                    </div>
+                    <div class="sites__item">
+                        <img class="sites__img" src="images/site2.png">
+                        <span class="sites__text">Сайт магазина детской одежды</span>
+                    </div>
+                    <div class="sites__item">
+                        <img class="sites__img" src="images/site3.png">
+                        <span class="sites__text">Сайт магазина «Рыболов»</span>
+                    </div>
+                    <div class="sites__button-left"></div>
+                    <div class="sites__button-right"></div>
+                </div>
+                <div class="img-select">
+                    <div class="img-select__point img-select_point_active"></div>
+                    <div class="img-select__point"></div>
+                    <div class="img-select__point"></div>
+                </div>
+                <button class="examples__button filled-button">Заказать проект</button>
+            </div>
+        </div>
+        <div id="price" class="price">
+            <div class="fixed-container">
+                <span class="price__text1">Адаптивная вёрстка под все устройства <br> и браузеры от 1000 рублей всего за 4 часа.*</span>
+                <span class="price__text2">* Срок и стоимость могут отличаться от заявленных и рассчитываются  индивидуально, <br> в зависимости от сложности задач.</span>
+            </div>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="links">
+            <div class="fixed-container">
+                <nav class="links__left-links">
+                    <a href="#tasks">Услуги</a>
+                    <a href="#examples">Портфолио</a>
+                    <a href="#price">Стоимость</a>
+                </nav>
+                <div class="links__center-info">
+                    <span class="center-info__number">+7 (800) 555-35-35</span>
+                    <span class="center-info__mail">degzeg@gmail.com</span>
+                </div>
+                <div class="links__socials">
+                    <button class="socials__button call-button">Заказать звонок</button>
+                    <div class="links__socials-links">
+                        <a href="#" class="vk-logo"></a>
+                        <a href="#" class="facebook-logo"></a>
+                        <a href="#" class="twitter-logo"></a>
+                        <a href="#" class="instagram-logo"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="black-bottom">
+            <span>© Дмитрий Грибовский, 2020</span>
+        </div>
+    </footer>
+</body>
+</html>
